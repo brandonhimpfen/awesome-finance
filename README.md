@@ -97,6 +97,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
+- [SmartBizCalc](https://smartbizcalc.com/) – Free small business calculators covering tax, insurance, break-even, payroll, loan, and contractor pricing with 530+ tools.
 - [SmartBizCalc](https://www.smartbizcalc.com/) – 400+ free small business calculators covering payroll tax, break-even, S-corp savings, startup costs, business insurance, and contractor pricing.
 
 ## Financial Data & APIs
