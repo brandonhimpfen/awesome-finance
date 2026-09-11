@@ -76,6 +76,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stripe](https://stripe.com/) – Payments infrastructure for online businesses.
 - [PayPal](https://www.paypal.com/) – Digital payments and money transfer platform.
 - [Square](https://squareup.com/) – Point-of-sale and payment processing tools.
+- [Posnic](https://www.posnic.com/) – Offline-first [open-source POS and billing software](https://github.com/Posnic/POS) for retail shops and restaurants, with self-hosted online/offline workflows.
 - [Plaid](https://plaid.com/) – API for connecting applications to financial accounts.
 - [Wise](https://wise.com/) – International money transfer and multi-currency accounts.
 
