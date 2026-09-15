@@ -100,6 +100,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
+- [BusinessOS](https://businessos.biz/) – Offline-first, encrypted accounting and invoicing for freelancers and small business (multi-region VAT/GST/sales tax). Ships [40 free open-source calculators](https://github.com/ytinsta1741-ops/free-business-tools).
 
 ## Financial Data & APIs
 
