@@ -55,6 +55,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Future Value Calculator](https://future-value-calculator.com/) – Free calculator for future value, monthly deposits, withdrawals, inflation, employer matching, and scenario estimates.
 
 ## Corporate Finance
 
