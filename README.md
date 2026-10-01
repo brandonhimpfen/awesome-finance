@@ -161,3 +161,8 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+
+## Free Online Calculators
+
+- [CalcProMaster](https://calcpromaster.com) - Free library of 1200+ online calculators (loan EMI, mortgage, BMI, percentage, GPA and more) that shows the exact formula and every step of the calculation.
