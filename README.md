@@ -108,6 +108,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
+- [Resimanor South Korea Stress DSR Housing Finance Data](https://resimanor.com/housing-finance-dsr-data/) – Open reference dataset with reproducible 2026 South Korea stress-DSR mortgage-limit scenarios, CSV/JSON files, documented methodology, and DOI archival records.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
 
