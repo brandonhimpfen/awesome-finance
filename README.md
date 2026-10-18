@@ -112,6 +112,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
 
 ## Modeling, Analytics & Tools
+- [CalcBadger](https://calcbadger.com/) – Free online calculators that show the formula and cite sources for each result.
 
 - [Excel for Finance](https://support.microsoft.com/excel) – Core modeling tool for finance professionals.
 - [Python for Finance](https://www.python.org/) – Programming ecosystem for financial analysis.
