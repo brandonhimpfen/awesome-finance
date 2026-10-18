@@ -49,6 +49,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Derivatives Reference](https://www.investopedia.com/terms/d/derivative.asp) – Explanation of options, futures, and swaps.
 
 ## Personal Finance
+- [WageLark](https://wagelark.com/) – Free U.S. occupation salary reference built from BLS OEWS wage data (medians, percentiles, entry education).
 
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
