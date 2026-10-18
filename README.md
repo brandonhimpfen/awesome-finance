@@ -94,6 +94,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stress Testing](https://www.investopedia.com/terms/s/stresstesting.asp) – Financial resilience analysis techniques.
 
 ## Accounting & Reporting
+- [CashFlow Pick AP ROI Calculator](https://cashflowpick.com/ap-automation-roi-calculator/) – Free ROI estimator for accounts-payable / expense automation.
 
 - [IFRS](https://www.ifrs.org/) – International Financial Reporting Standards.
 - [GAAP](https://www.fasb.org/) – U.S. Generally Accepted Accounting Principles.
