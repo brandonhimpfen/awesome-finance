@@ -57,6 +57,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
 
 ## Corporate Finance
+- [HRPay Pick Employee Cost Calculator](https://hrpaypick.com/employee-cost-calculator/) – Free estimator of true employer cost of a hire (payroll taxes, benefits, overhead) beyond base salary.
 
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) – Training and resources for corporate finance professionals.
 - [Valuation Models](https://www.wallstreetprep.com/knowledge/valuation-methods/) – Guides to DCF, comparables, and precedent transactions.
