@@ -50,6 +50,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Personal Finance
 
+- [2027 FERS COLA Calculator](https://colacalculator2027.com/fers-cola-2027-calculator/) – Free browser tool to estimate CSRS and FERS annuity after the 2027 cost-of-living adjustment.
+
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
