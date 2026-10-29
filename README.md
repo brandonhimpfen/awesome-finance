@@ -114,6 +114,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Modeling, Analytics & Tools
 
+- [DisconfirmAI](https://disconfirmai.com/en) – Investment research platform that seeks disconfirming evidence before conviction. Public reading, filings research, conditional radar, and free valuation tools.
 - [Excel for Finance](https://support.microsoft.com/excel) – Core modeling tool for finance professionals.
 - [Python for Finance](https://www.python.org/) – Programming ecosystem for financial analysis.
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
