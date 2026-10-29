@@ -107,6 +107,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Adanos](https://api.adanos.org/docs) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for stocks, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
+- [TickerLandia](https://tickerlandia.com/en) – Free financial statements, valuation multiples, dividend-reinvested returns, and earnings/dividend calendars for about 3,500 listed companies in 34 markets, in 6 languages.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
