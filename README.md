@@ -71,6 +71,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/) – Portfolio optimization library.
 - [QSTrader](https://github.com/mhallsmoore/qstrader) – Event-driven backtesting engine.
 - [LumiBot](https://github.com/Lumiwealth/lumibot) - Python framework for backtesting and live trading with the same strategy code.
+- [AI Quant Nav – Backtrader alternatives](https://aiquantnav.com/en/compare/backtrader-alternatives) – Free comparison of maintained open-source backtesting frameworks as Backtrader replacements.
 
 ## Fintech & Payments
 
