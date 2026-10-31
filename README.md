@@ -119,6 +119,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [Quotelinks](https://www.quotelinks.com/screener.html) – Free stock and ETF screeners for US markets with 60+ metrics and editable preset screens.
 
 ## Regulation & Compliance
 
