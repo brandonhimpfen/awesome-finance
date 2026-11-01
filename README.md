@@ -119,6 +119,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [BondStats](https://www.bondstats.org/) – Independent financial research and analytics platform for fixed income markets, sovereign debt, yield curves, monetary policy, and financial infrastructure.
 
 ## Regulation & Compliance
 
