@@ -111,6 +111,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [US Retirement Limits](https://github.com/Lead-partner/retirement-limits-data) – Sourced CSV and JSON of official US IRA, 401(k) and TSP limits, IRS RMD tables, and IRC 408(m) metal rules (IRS, TSP, 26 CFR; data CC BY 4.0).
 
 ## Modeling, Analytics & Tools
 
